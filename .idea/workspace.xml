@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb175568-026c-4a9d-bbf6-15ca0762e2a6" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="pattern" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MyJob.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zkg/thread/MyJob.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThredPoolDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zkg/thread/ThredPoolDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Executor.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/Executor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="139" column="9" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadPoolExecutor.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-413">
+              <caret line="931" column="12" lean-forward="true" selection-start-line="931" selection-start-column="12" selection-end-line="931" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#25302#25303#0" expanded="true" />
+                <element signature="e#25341#25342#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Executors.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/Executors.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="87" column="34" selection-start-line="87" selection-start-column="34" selection-end-line="87" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyThread.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zkg/thread/MyThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConcurrentHashMap.java" pinned="false" current-in-tab="true">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="2259" column="23" selection-start-line="2259" selection-start-column="12" selection-end-line="2259" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#44347#44348#0" expanded="true" />
+                <element signature="e#44395#44396#0" expanded="true" />
+                <element signature="e#94368#94398#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Unsafe.class" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="303" column="32" selection-start-line="303" selection-start-column="32" selection-end-line="303" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Class.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Class.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="2067" column="49" selection-start-line="2067" selection-start-column="49" selection-end-line="2067" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Map.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="237" column="35" lean-forward="true" selection-start-line="237" selection-start-column="35" selection-end-line="237" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>service</find>
+      <find>run</find>
+      <find>AbstractQueuedSynchronizer</find>
+      <find>abstract</find>
+      <find>threadFactory</find>
+      <find>queue</find>
+      <find>minuteCount</find>
+      <find>bucketNum</find>
+      <find>ArrayDeque</find>
+      <find>bucketSecPer</find>
+      <find>keepalive</find>
+      <find>runworker</find>
+      <find>SIZECTL</find>
+      <find>1.8</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/zkg/algorithm/list/Test2.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/algorithm/stack/MyStack.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/algorithm/queue/MyQueue.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/algorithm/queue/TowStackOneQueue.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/src/com/zkg/algorithm/tree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/algorithm/tree/Depth.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/algorithm/tree/LowestAncestor.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/algorithm/tree/Traverse.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/prototype/Monkey.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/prototype/QiTianDaSheng.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/prototype/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/proxy/staticproxy/Person.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/proxy/staticproxy/Son.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/proxy/dbroute/OrderDao.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/proxy/dbroute/Order.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/proxy/dbroute/IOrderService.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/proxy/dbroute/db/DynamicDataSourceEntity.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/proxy/dbroute/proxy/OrderServiceStaticProxy.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/proxy/jdk/Meipo.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/proxy/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/proxy/staticproxy/Father.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/proxy/jdk/JDKMeipo.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/algorithm/dp/Incremental.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/algorithm/dp/Bag.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/trafficount/v1/MinuteHourCounter.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/trafficount/Event.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/trafficount/v1/MinuteHourCounterV1.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/trafficount/v3/ConveyorQueue.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/trafficount/MinuteHourCounterV1.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/trafficount/MinuteHourCounter.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/trafficount/MinuteHourCounterV2.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/trafficount/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/trafficount/v3/MinuteHourCounterV3.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/trafficount/v3/TrailingBucketCounter.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/algorithm/search/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/algorithm/sort/SortHelper.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/algorithm/sort/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/algorithm/sort/Selection.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/algorithm/sort/AbstractSort.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/algorithm/sort/Insertion.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/algorithm/dp/Recursive.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/annotation/Label.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/annotation/Format.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/annotation/Student.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/annotation/SimpleFormatter.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/thread/MyThreadPrinter.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/algorithm/string/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/algorithm/string/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/thread/ThredPoolDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/zkg/thread/MyThread.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="233" />
+    <option name="y" value="121" />
+    <option name="width" value="778" />
+    <option name="height" value="824" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zkg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zkg" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zkg" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zkg" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="liveref&#9;PSI&#9;JAVA://sun.rmi.transport.LiveRef" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15384616" />
+    <property name="project.structure.side.proportion" value="0.33486766" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\pattern\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ThredPoolDemo">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zkg.algorithm.search.BinarySearch" />
+      <module name="pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zkg.algorithm.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MyThreadPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zkg.thread.MyThreadPrinter" />
+      <module name="pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zkg.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zkg.annotation.Student" />
+      <module name="pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zkg.annotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zkg.trafficount.Test" />
+      <module name="pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zkg.trafficount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zkg.algorithm.string.Test" />
+      <module name="pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zkg.algorithm.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ThredPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zkg.thread.ThredPoolDemo" />
+      <module name="pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zkg.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TowStackOneQueue" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zkg.algorithm.queue.TowStackOneQueue" />
+      <module name="pattern" />
+      <option name="VM_PARAMETERS" value="-XX:+PrintGC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zkg.algorithm.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TowStackOneQueue" />
+      <item itemvalue="Application.BinarySearch" />
+      <item itemvalue="Application.Student" />
+      <item itemvalue="Application.MyThreadPrinter" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.ThredPoolDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThredPoolDemo" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.MyThreadPrinter" />
+        <item itemvalue="Application.Student" />
+        <item itemvalue="Application.BinarySearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb175568-026c-4a9d-bbf6-15ca0762e2a6" name="Default" comment="" />
+      <created>1538893901025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538893901025</updated>
+      <workItem from="1538893904964" duration="3836000" />
+      <workItem from="1538902850403" duration="3889000" />
+      <workItem from="1539004824884" duration="29000" />
+      <workItem from="1539090522165" duration="630000" />
+      <workItem from="1539091166806" duration="475000" />
+      <workItem from="1539092106837" duration="858000" />
+      <workItem from="1539130939766" duration="40000" />
+      <workItem from="1539354836127" duration="626000" />
+      <workItem from="1539398661154" duration="3403000" />
+      <workItem from="1539489315570" duration="286000" />
+      <workItem from="1541165470820" duration="2209000" />
+      <workItem from="1541248296713" duration="5687000" />
+      <workItem from="1541330909654" duration="6314000" />
+      <workItem from="1541511857000" duration="12000" />
+      <workItem from="1542806167642" duration="688000" />
+      <workItem from="1545141690046" duration="1915000" />
+      <workItem from="1545658860487" duration="3937000" />
+      <workItem from="1546766320902" duration="9583000" />
+      <workItem from="1547474823116" duration="1965000" />
+      <workItem from="1548477503898" duration="2303000" />
+      <workItem from="1548489228616" duration="4022000" />
+      <workItem from="1548572975954" duration="429000" />
+      <workItem from="1548597896575" duration="1141000" />
+      <workItem from="1548682294737" duration="86000" />
+      <workItem from="1548682422552" duration="390000" />
+      <workItem from="1550405759132" duration="5211000" />
+      <workItem from="1551604858295" duration="14314000" />
+      <workItem from="1551881241646" duration="605000" />
+      <workItem from="1552095034534" duration="23000" />
+      <workItem from="1552203346109" duration="9978000" />
+      <workItem from="1552313198986" duration="79000" />
+      <workItem from="1553002431945" duration="4511000" />
+      <workItem from="1553176322317" duration="5104000" />
+      <workItem from="1553417541895" duration="8258000" />
+      <workItem from="1553606224595" duration="4607000" />
+      <workItem from="1553777509879" duration="624000" />
+      <workItem from="1562594234013" duration="184000" />
+      <workItem from="1562594451681" duration="20000" />
+      <workItem from="1562594843262" duration="3121000" />
+      <workItem from="1562680280638" duration="3092000" />
+      <workItem from="1565490370637" duration="635000" />
+      <workItem from="1566008376924" duration="4193000" />
+      <workItem from="1569118213089" duration="6047000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="125359000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="2" weight="0.3293011" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29444444" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3288889" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4981884" visible="true" weight="0.13432837" />
+      <window_info anchor="right" id="Database" order="0" weight="0.3293011" />
+      <window_info id="Structure" order="1" sideWeight="0.5018116" side_tool="true" weight="0.44623655" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5018116" side_tool="true" weight="0.44623655" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34888887" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4981884" visible="true" weight="0.23408072" />
+      <window_info id="Structure" order="1" sideWeight="0.5018116" side_tool="true" weight="0.44623655" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2949102" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.30555555" />
+      <window_info anchor="right" id="Database" order="0" weight="0.3293011" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3288889" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Maven Projects" order="2" weight="0.3293011" />
+      <window_info id="Favorites" order="2" sideWeight="0.5018116" side_tool="true" weight="0.44623655" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zkg/rpc/Server/ProcessorHandler.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zkg/proxy/Test.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zkg/algorithm/dp/Recursive.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zkg/trafficount/v3/TrailingBucketCounter.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zkg/algorithm/string/Solution.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zkg/algorithm/string/Solution.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="38" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>LocalDateTime.now().toInstant(ZoneOffset.UTC).getEpochSecond()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>LocalDateTime.now().toInstant(ZoneOffset.of(&quot;+8&quot;)).getEpochSecond()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>LocalDateTime.now().toInstant(ZoneOffset.of(&quot;+8&quot;)).toEpochMilli()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>now.getSecond()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/time/Instant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="617" column="16" selection-start-line="617" selection-start-column="16" selection-end-line="617" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/ArrayDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="337" column="28" selection-start-line="337" selection-start-column="28" selection-end-line="337" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/time/ZoneOffset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="412" column="29" selection-start-line="412" selection-start-column="29" selection-end-line="412" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/trafficount/MinuteHourCounterV1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/trafficount/MinuteHourCounterV2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/trafficount/MinuteHourCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/trafficount/v3/ConveyorQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/trafficount/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="49" lean-forward="true" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/trafficount/v3/MinuteHourCounterV3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/time/LocalDateTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="134" column="19" selection-start-line="134" selection-start-column="19" selection-end-line="134" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/trafficount/v3/TrailingBucketCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/algorithm/sort/SortHelper.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/algorithm/sort/Selection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="1829" column="29" lean-forward="true" selection-start-line="1829" selection-start-column="29" selection-end-line="1829" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/algorithm/sort/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/algorithm/sort/AbstractSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/algorithm/sort/Insertion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/algorithm/search/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/algorithm/queue/MyQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1421">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/algorithm/dp/Bag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/algorithm/dp/Recursive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/algorithm/dp/Incremental.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/annotation/RetentionPolicy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="809">
+          <caret line="55" column="4" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-755">
+          <caret line="134" column="25" selection-start-line="134" selection-start-column="25" selection-end-line="134" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/text/DateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/quartz-2.2.3.jar!/org/quartz/SimpleScheduleBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3364">
+          <caret line="122" column="33" selection-start-line="122" selection-start-column="33" selection-end-line="122" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/quartz-2.2.3.jar!/org/quartz/TriggerBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/thread/ThreadLocalDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/AbstractExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2755">
+          <caret line="130" column="25" selection-start-line="130" selection-start-column="25" selection-end-line="130" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6641">
+          <caret line="263" column="16" selection-start-line="263" selection-start-column="16" selection-end-line="263" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/thread/MyThreadPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/annotation/Format.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/annotation/Label.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/annotation/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/annotation/SimpleFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/rpc/client/RemoteInvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-52">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/rmi/HelloServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/rmi/IHelloService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/algorithm/string/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1334">
+          <caret line="47" column="26" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/algorithm/string/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/thread/QuartzDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/thread/MyJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="87" column="34" selection-start-line="87" selection-start-column="34" selection-end-line="87" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/thread/ThredPoolDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="139" column="9" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-413">
+          <caret line="931" column="12" lean-forward="true" selection-start-line="931" selection-start-column="12" selection-end-line="931" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#25302#25303#0" expanded="true" />
+            <element signature="e#25341#25342#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="237" column="35" lean-forward="true" selection-start-line="237" selection-start-column="35" selection-end-line="237" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="2067" column="49" selection-start-line="2067" selection-start-column="49" selection-end-line="2067" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="303" column="32" selection-start-line="303" selection-start-column="32" selection-end-line="303" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zkg/thread/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="2259" column="23" selection-start-line="2259" selection-start-column="12" selection-end-line="2259" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#44347#44348#0" expanded="true" />
+            <element signature="e#44395#44396#0" expanded="true" />
+            <element signature="e#94368#94398#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.33486766" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.33486766" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>pattern</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.33486766" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>servlet-api-2.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.33486766" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.33486766" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
